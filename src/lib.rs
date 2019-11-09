@@ -1,3 +1,5 @@
+pub use pancurses;
+
 #[cfg(test)]
 mod tests {
     #[test]
