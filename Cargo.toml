@@ -8,3 +8,9 @@ edition = "2018"
 
 [dependencies]
 pancurses = "0.16"
+ncurses = "5.99.0"
+termbox = "0.2.0"
+rustbox = "0.11.0"
+termion = "1.5.3"
+crossterm = "0.13.3"
+cursive = "0.13"
