@@ -41,6 +41,7 @@ https://github.com/gyscos/Cursive
 - blt
 
 ## tui
+star: 1.9k
 https://github.com/fdehau/tui-rs
 ### backends
 - termion
